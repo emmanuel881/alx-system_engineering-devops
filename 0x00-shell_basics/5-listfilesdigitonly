@@ -1,2 +1,2 @@
 #!/bin/bash
-$echo ls -gal
+$echo ls -lna
